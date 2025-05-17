@@ -1,0 +1,22 @@
+.odd-nums,
+.large-font{
+    background-color: #FF7F7F;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.large-font{
+    font-size: 24px;
+}
+
+#huge{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#hulk-green{
+    color:rgb(0, 0, 0);
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+
+}
